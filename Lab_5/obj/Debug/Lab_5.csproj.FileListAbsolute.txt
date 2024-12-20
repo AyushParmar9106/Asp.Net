@@ -1,0 +1,7 @@
+E:\Sem 4\.NET\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+E:\Sem 4\.NET\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+E:\Sem 4\.NET\Lab_5\bin\Debug\Lab_5.exe.config
+E:\Sem 4\.NET\Lab_5\bin\Debug\Lab_5.exe
+E:\Sem 4\.NET\Lab_5\bin\Debug\Lab_5.pdb
+E:\Sem 4\.NET\Lab_5\obj\Debug\Lab_5.exe
+E:\Sem 4\.NET\Lab_5\obj\Debug\Lab_5.pdb

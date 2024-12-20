@@ -83,7 +83,38 @@ namespace Lab_5
                 Console.Write(item + " ");
             }*/
 
+            /* //Program - 5
+             Dictionary<int, string> dic = new Dictionary<int, string>();
+             dic.Add(1, "Keval");
+             dic.Add(2, "Deep");
+             dic.Add(3, "Nikunj");
+             dic.Add(4, "Raj");
+             dic.Add(5, "Jay");
+             dic.Add(6, "Kishan");
 
+             dic.Remove(3);
+             Console.WriteLine(dic.ContainsKey(8));
+             Console.WriteLine(dic.ContainsValue("Keval"));
+             foreach (int i in dic.Keys)
+             {
+                 Console.WriteLine("Key : " + i + ",Value : " + dic[i]);
+             }*/
+
+        /*    //Program-6
+            Hashtable ht = new Hashtable();
+            ht.Add("EId", 101);
+            ht.Add("EName", "Ayush");
+            ht.Add("Job", "CEO");
+            ht.Add("Salary", 25000);
+
+            ht.Remove("Job");
+            Console.WriteLine(ht.ContainsKey("Salary"));
+            Console.WriteLine(ht.ContainsValue(20000));
+
+            foreach (object key in ht.Keys)
+            {
+                Console.WriteLine(key + ": " + ht[key]);
+            }*/
 
         }
     }
